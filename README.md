@@ -1,7 +1,6 @@
 ![Front -end Web Developer| WordPress expert](https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/453194655_950816180390235_1994582276200024179_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=IYE8wS3MDxoQ7kNvgFNQQbc&_nc_ht=scontent-ccu1-2.xx&gid=AXqVvYrWWY7Tx8vlxfnLGgZ&oh=00_AYC1lzOBDk2FLVkiz9XfqT0W7Ap1yIECfycyrRZXh3OyVQ&oe=66B0DD75)
 ### Hi there 👋, I'm Jahangir Alam
 #### Front-end Web Developer| WordPress expert
-![Front -end Web Developer| WordPress expert](https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/453194655_950816180390235_1994582276200024179_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=IYE8wS3MDxoQ7kNvgFNQQbc&_nc_ht=scontent-ccu1-2.xx&gid=AXqVvYrWWY7Tx8vlxfnLGgZ&oh=00_AYC1lzOBDk2FLVkiz9XfqT0W7Ap1yIECfycyrRZXh3OyVQ&oe=66B0DD75)
 
 I have over 4 years of experience as a Front-end Web Developer with WordPress. Frontend Developer. I specialize in WordPress and WooCommerce, WordPress Theme Customization, and Theme Development. I can fix any WordPress error/issue like PHP, CSS, JS issues, and other Theme and plugin-related matters. Client Satisfaction is my priority.
 

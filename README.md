@@ -1,9 +1,12 @@
-![Front-end Web Developer| WordPress expert](https://media.licdn.com/dms/image/v2/D5616AQH0kfHKw6y_Yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722482313333?e=1729123200&v=beta&t=tO10-BwXMLESaBFsDQLM-OdKm0YT6CD-0T8ehkgwSDA)
+
 ### Hi there 👋, I'm Jahangir Alam
 #### Front-end Web Developer| WordPress expert
+![Front-end Web Developer| WordPress expert](https://media.licdn.com/dms/image/v2/D5616AQH0kfHKw6y_Yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722482313333?e=1729123200&v=beta&t=tO10-BwXMLESaBFsDQLM-OdKm0YT6CD-0T8ehkgwSDA)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjahangir424&label=Profile%20views&color=0e75b6&style=flat" alt="mdjahangir424" /> </p>
 
 I have over 4 years of experience as a Front-end Web Developer with WordPress. Frontend Developer. I specialize in WordPress and WooCommerce, WordPress Theme Customization, and Theme Development. I can fix any WordPress error/issue like PHP, CSS, JS issues, and other Theme and plugin-related matters. Client Satisfaction is my priority.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjahangir424&label=Profile%20views&color=0e75b6&style=flat" alt="mdjahangir424" /> </p>
+
 Skills: WordPress / JS / HTML / CSS/PHP
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/jahangir424?up_rollout=true)

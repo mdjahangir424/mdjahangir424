@@ -1,4 +1,4 @@
-[![Front -end Web Developer| WordPress expert](https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/453194655_950816180390235_1994582276200024179_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=IYE8wS3MDxoQ7kNvgFNQQbc&_nc_ht=scontent-ccu1-2.xx&gid=AXqVvYrWWY7Tx8vlxfnLGgZ&oh=00_AYC1lzOBDk2FLVkiz9XfqT0W7Ap1yIECfycyrRZXh3OyVQ&oe=66B0DD75)]
+[![Front -end Web Developer| WordPress expert][https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/453194655_950816180390235_1994582276200024179_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=6PvKoorf3-8Q7kNvgHXcdwo&_nc_ht=scontent.fdac22-1.fna&oh=00_AYCgrRzkLwGYL3nQgUBlAB_FYyk1Tl8SB-f1RxAVEhdSXQ&oe=66C2A9B5]
 ### Hi there 👋, I'm Jahangir Alam
 #### Front-end Web Developer| WordPress expert
 

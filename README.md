@@ -25,9 +25,3 @@ Skills: WordPress / JS / HTML / CSS/PHP
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjahangir424&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdjahangir424)  
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjahangir424&label=Profile%20views&color=0e75b6&style=flat" alt="mdjahangir424" /> </p>
-
-<p align="left"> <a href="https://twitter.com/mdjahangir424" target="blank"><img src="https://img.shields.io/twitter/follow/mdjahangir424?logo=twitter&style=for-the-badge" alt="mdjahangir424" /></a> </p>

@@ -3,9 +3,8 @@
 ### Full-Stack Web Developer | Flutter & Kotlin App Developer | WordPress Expert
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQH0kfHKw6y_Yw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722482313333" width="100%" alt="Developer Banner"/>
+  <img src="assets/developer-banner.png" width="100%">
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdjahangir424&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>

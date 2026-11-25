@@ -28,7 +28,7 @@ My goal is to build modern, user-friendly, and scalable digital solutions.
 - 👯 Open to collaborating on interesting projects
 - 💼 Fiverr: https://www.fiverr.com/jahangir424
 - 📫 Email: mdjahangiralam2528@gmail.com
-- 🌍 Portfolio: https://dev-mdjahangir424.pantheonsite.io/
+- 🌍 Portfolio: https://myportfolio-f6cfb.web.app
 
 ## 🛠️ Technical Skills
 
